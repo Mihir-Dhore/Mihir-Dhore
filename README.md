@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-dhore&show_icons=true&locale=en" alt="mihir-dhore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-dhore&" alt="mihir-dhore" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-dhore&" alt="mihir-dhore" /></p>
