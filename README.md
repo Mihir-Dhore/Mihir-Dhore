@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Mihir Dhore</h1>
+<h1 align="left" color:#f5f5f5>Hi There, I'm Mihir Dhore</h1>
 <h3 align="left">A passionate Salesforce developer</h3>
 <img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-dhore&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-dhore" /> </p>
