@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihir Dhore</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
-<img align="right" alt="Coding" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgeekyprawins%2Fgeekyprawins&psig=AOvVaw2hGJ2wDgSvM2aXPtkPHvhd&ust=1704258585182000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICfqJz4vYMDFQAAAAAdAAAAABAF](https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif)">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-dhore&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-dhore" /> </p>
 
 - 🌱 I’m currently learning **Salesforce Development**
