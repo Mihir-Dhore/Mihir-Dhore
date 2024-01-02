@@ -7,7 +7,7 @@
 <a href="https://instagram.com/mihirrrr__._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihirrrr__._" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-dhore&show_icons=true&locale=en&layout=compact" alt="mihir-dhore" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-dhore&show_icons=true&locale=en&layout=compact" alt="mihir-dhore" /></p> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-dhore&show_icons=true&locale=en" alt="mihir-dhore" /></p>
 
